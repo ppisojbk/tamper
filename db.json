@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "<img src=x onerror=alert('xss')>"
+    }
+  ],
+  "profile": "<img src=x onerror=alert('xss')>"
+}
