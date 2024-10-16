@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "<img src=x onerror=alert('xss')>"
+      "title": "1234"
     }
   ],
-  "profile": "<img src=x onerror=alert('xss')>"
+  "profile": "2234"
 }
